@@ -23,6 +23,25 @@ Welcome to my collection of beginner-friendly Python projects using NumPy and Ma
 - Visualizes data using histograms.
 - 📊 Libraries: NumPy, Matplotlib
 
+### 4️⃣ Happy Face Generator 😊
+- Generates a pixel-art-style happy face using a 2D NumPy array.
+- Each 1 represents a pixel of the face, and 0 represents the background.
+- Visualized using imshow() with a smooth colormap.
+- 📊 Libraries: NumPy, Matplotlib
+- 📌 Concepts: 2D arrays, colormap visualization, image grids
+
+### 5️⃣ Geometric Pattern Grid 🟩
+- Creates a 10x10 geometric pattern using alternating 0s and 1s.
+- Visualized using viridis colormap for a smooth gradient aesthetic.
+- Great for experimenting with logic-based designs and 2D visualization.
+- 📊 Libraries: NumPy, Matplotlib
+
+### 6️⃣ Heart Rate Monitoring Simulation ❤️‍🔥
+- Simulates a realistic 60-minute heart rate data during an exercise session.
+- Uses a sinusoidal pattern with added Gaussian noise for realism.
+- Plots heart rate trend, highlights the maximum value, and shows heart zones.
+- 📊 Libraries: NumPy, Matplotlib
+- 📌 Concepts: Data simulation, sine waves, random noise, line plots, fill_between
 ---
 
 ## 🔧 Technologies Used
